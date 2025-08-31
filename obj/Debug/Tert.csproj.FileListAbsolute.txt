@@ -1,0 +1,15 @@
+C:\Users\User\Development\App-development\Tert\Tert\bin\Debug\Tert.exe.config
+C:\Users\User\Development\App-development\Tert\Tert\bin\Debug\Tert.exe
+C:\Users\User\Development\App-development\Tert\Tert\bin\Debug\Tert.pdb
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.csproj.AssemblyReference.cache
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.Tert.resources
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.Properties.Resources.resources
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.csproj.GenerateResource.cache
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.csproj.CoreCompileInputs.cache
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.exe
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.pdb
+C:\Users\User\Development\App-development\Tert\Tert\bin\Debug\Tert.exe.manifest
+C:\Users\User\Development\App-development\Tert\Tert\bin\Debug\Tert.application
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.exe.config
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.exe.manifest
+C:\Users\User\Development\App-development\Tert\Tert\obj\Debug\Tert.application

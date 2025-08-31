@@ -1,0 +1,10 @@
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.csproj.AssemblyReference.cache
+C:\Users\User\Development\App-development\Tert\Tert\bin\Release\Tert.exe.config
+C:\Users\User\Development\App-development\Tert\Tert\bin\Release\Tert.exe
+C:\Users\User\Development\App-development\Tert\Tert\bin\Release\Tert.pdb
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.Tert.resources
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.Properties.Resources.resources
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.csproj.GenerateResource.cache
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.csproj.CoreCompileInputs.cache
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.exe
+C:\Users\User\Development\App-development\Tert\Tert\obj\Release\Tert.pdb
